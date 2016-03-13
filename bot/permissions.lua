@@ -8,7 +8,8 @@ local sudos = {
  	"gban_installer"
   }
  local admins = {
- 	"rank_mod",
+        "rank_mod",
+        "rank_guest",
  	"gban",
  	"ungban",
  	"setrules",
@@ -17,12 +18,13 @@ local sudos = {
  	"setname",
  	"addbots",
  	"setlink",
- 	"rank_guest",
  	"description",
  	"export_gban"
 }
 local mods = {
 	"whois",
+        "rank_mod",
+        "rank_guest",
 	"kick",
 	"add",
 	"ban",
