@@ -8,8 +8,6 @@ local sudos = {
  	"gban_installer"
   }
  local admins = {
-        "rank_mod",
-        "rank_guest",
  	"gban",
  	"ungban",
  	"setrules",
